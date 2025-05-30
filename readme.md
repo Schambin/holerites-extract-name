@@ -22,7 +22,7 @@ Este projeto tem como objetivo extrair informações de arquivos PDF de holerite
 - Node.js (v18 ou superior)
 - npm
 
-Instale as dependências com:
+## Instale as dependências com:
 
 ```bash
 npm install
