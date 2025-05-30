@@ -12,7 +12,7 @@ Este projeto tem como objetivo extrair informações de arquivos PDF de holerite
 ## Como usar
 
 1. Coloque todos os arquivos PDF dos holerites em uma pasta.
-2. Execute o arquivo `iniciar.bat`.
+2. Execute o arquivo `run-holerites.bat`.
 3. Informe o caminho completo da pasta quando solicitado.
 4. Aguarde o processamento.
 5. Verifique os nomes extraídos ou os erros listados no terminal.
